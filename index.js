@@ -1,11 +1,7 @@
 import {
   formatDateToRU,
   formatDateToUS,
-} from "https://cdn.jsdelivr.net/gh/astryhs/FormatDateLib@main/lib/formatDate/formatDate.js";
-
-//https://cdn.jsdelivr.net/gh/astryhs/FormatDateLib@main/lib/formatDate/formatDate.js
-
-//https://github.com/astryhs/FormatDateLib/blob/main/lib/formatDate/formatDate.js
+} from "https://cdn.jsdelivr.net/gh/astryhs/formatDateLib@main/formatDateLib/lib/formatDate/formatDate.js";
 
 let country = "ru";
 
